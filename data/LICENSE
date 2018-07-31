@@ -1,0 +1,6 @@
+The data files in this folder are from sources which may not be compatible
+with the CC0 license of the code in this project.
+
+Data files are included here so that the notebook code can be executed
+without the need for additional setup. You should not use these files for
+any other purpose without checking the license of the original source.
